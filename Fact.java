@@ -8,6 +8,7 @@ public class Fact
 		{
 			res=res*i;
 		}
+		//when number is num = 5 then factorial is a 120 display
 		System.out.println("The Factorial "+num+" is =  " +res);
 	}
 }
